@@ -4,4 +4,4 @@
  ```cd C:\Path\To\Folder```
 
  Листинг содержимого текущей директории Windows ```sh dir ```
- 
+ Удаление файлов ```sh Del file.txt```
