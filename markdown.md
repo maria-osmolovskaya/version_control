@@ -22,3 +22,7 @@
 2. List 2
 3. List 3
 
+## Add picture example
+
+This is an orange
+![orange](orange.jpg)
